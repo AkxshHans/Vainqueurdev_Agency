@@ -77,7 +77,7 @@ section{
 .text__reveal{
     line-height: 1;
     overflow: hidden;
-    font-size: clamp(2rem, 20cqi, 6rem);
+    font-size: clamp(2rem, 20cqi, 19rem);
 }
 
 .text__reveal span{
@@ -115,7 +115,7 @@ section{
 }
 
 .hero__title__header{
-    font-size: clamp(2rem, 20cqi, 10rem);
+    font-size: clamp(2rem, 20cqi, 6rem);
     letter-spacing: -.05em;
     margin-bottom: 2rem;
 }

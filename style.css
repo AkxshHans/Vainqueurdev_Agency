@@ -77,7 +77,7 @@ section{
 .text__reveal{
     line-height: 1;
     overflow: hidden;
-    font-size: clamp(2rem, 20cqi, 10rem);
+    font-size: clamp(2rem, 20cqi, 6rem);
 }
 
 .text__reveal span{

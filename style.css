@@ -115,7 +115,7 @@ section{
 }
 
 .hero__title__header{
-    font-size: clamp(2rem, 20cqi, 6rem);
+    font-size: clamp(2rem, 20cqi, 9rem);
     letter-spacing: -.05em;
     margin-bottom: 2rem;
 }

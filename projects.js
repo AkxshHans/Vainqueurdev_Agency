@@ -94,8 +94,8 @@ const projects = [
         name: 'Photography',
         type: 'WEB DESIGN',
         pos: 'mid',
-        image: 'https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-        link: 'https://akxshhans.github.io/Photography---Infinite/'
+        image: 'https://plus.unsplash.com/premium_photo-1682146749338-f380c93c8dec?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D',
+        link: 'https://www.accordion.net.au/work'
     },
     {
         name: 'Apple Headphones Re-designed',

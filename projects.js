@@ -48,12 +48,7 @@
 //         pos: 'end',
 //         image: 'https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?auto=format&fit=crop&q=80&w=2574&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
 //     },
-        {
-//         name: 'PROJECT 9',
-//         type: 'TYPE DESIGN',
-//         pos: 'end',
-//         image: 'https://plus.unsplash.com/premium_photo-1675201001955-47d882590e75?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fHw%3D' 
-//     },
+        
 
 // ]
 
@@ -144,14 +139,8 @@ const projects = [
         pos: 'end',
         image: 'https://images.unsplash.com/photo-1548502499-ef49e8cf98d4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         link: 'https://akxshhans.github.io/Premium-Template-akash/'
-    }
-     {
-        name: 'Photogrpahy Site',
-        type: 'TYPE DESIGN',
-        pos: 'end',
-        image: 'https://images.unsplash.com/photo-1548502499-ef49e8cf98d4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-        link: 'https://akxshhans.github.io/Premium-Template-akash/'
-    }
+    },
+    
 ];
 
 const createProjects = () => {
